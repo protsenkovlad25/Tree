@@ -1,0 +1,4 @@
+INSERT INTO crosswords (main_word, letters, body, level) VALUES ('1', '["н","л","ь","е"]', '["л","","л"],
+["е","л","ь"],
+["н","","е"],
+["ь","",""]', 16);
